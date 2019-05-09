@@ -1,4 +1,4 @@
-# Project_2
+# Project_2 ETL
 
 Data sources:
 Restaurant week ratings from New York: https://www.kaggle.com/popoandrew/restaurant-week-2018
