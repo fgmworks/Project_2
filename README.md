@@ -2,6 +2,7 @@
 
 Data sources:
 Restaurant week ratings from New York: https://www.kaggle.com/popoandrew/restaurant-week-2018
+
 NYC Open Data restaurant inspection results: https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j
 
 The most challenging part for the projects was the part of finding and deciding on what topic and datasets to use. There are diverse and vast numbers of datasets on the internet, but it is difficult to find datasets that would be ideal to merge or combine for the project. We actually spent the whole first day just for deciding for the right topic to work on. We first found health inspection reports in San Francisco and tried to locate a dataset of Yelp reviews.  The only Yelp dataset did not focus at all on San Francisco, let alone California. After a few topics, we ended up working on our first idea about restaurants but with different datasets from New York. For the ETL project, we choose to work on health inspection reports and ratings of restaurant in New York City.
